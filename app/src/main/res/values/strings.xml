@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Interesting Facts</string>
+    <string name="action_help">Help</string>
+    <string name="help">->To View the random facts open tab \"RANDOM FACTS\" (which will be opened by default on app startup) and then
+    select the fact category of your wish.\n\n->To View the facts about particular number/year/date open tab \"QUEST FACTS\" select
+    category and enter number/year/month and day (whichever is applicable) and touch the \"GET FACT\" Button.\n\n->To view the facts your phone should be connected to internet.</string>
+
+
+</resources>
